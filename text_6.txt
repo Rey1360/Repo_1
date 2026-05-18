@@ -2,4 +2,3 @@ line M
 line b1
 line b2
 line 1-remote
-line 2-push
